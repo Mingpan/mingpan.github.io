@@ -1,3 +1,3 @@
 "use strict"
 
-alert("Hello World!");
+alert("The site is still in construction!");
